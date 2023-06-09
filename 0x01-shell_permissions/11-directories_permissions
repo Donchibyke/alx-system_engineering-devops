@@ -1,2 +1,2 @@
-#!/bin/bas11
+#!/bin/bash
 chmod -R a+X
