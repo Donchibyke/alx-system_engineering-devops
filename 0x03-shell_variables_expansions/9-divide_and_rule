@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWEWR / $DIVIDR))
+echo $(($POWEWR / $DIVIDE))
